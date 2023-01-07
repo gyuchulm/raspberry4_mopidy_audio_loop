@@ -7,7 +7,7 @@ original version is made with
 - Raspberry pi zero 
 - Pirate Audio Headphone Amp
 
-# we have many option to listen music / sound
+# We have many option to video looper made with Raspberry pi! 
 but I want to build some simple audio / podcast player without concerns! 
 there are so many video looper but not many audio loopers with Raspberry pi
 so I found the projects and forked this projects, and will edit some features! 

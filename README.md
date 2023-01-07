@@ -1,27 +1,41 @@
-![](image/PIPOD1.png)
-# 
 
-A DIY Ipod nano lookalike involving a raspberry pi zero.
-<img align="right" width="210" height="150" src="image/Pipod-nano.png">
-The hardware I am currently using is :
- - Raspberry pi zero v1.3
- - [Pirate Audio Headphone Amp](https://shop.pimoroni.com/products/pirate-audio-headphone-amp)
- - [UPS Lite v1.2](https://fr.aliexpress.com/item/32954180664.html?spm=a2g0s.9042311.0.0.40de6c37VWMT3f)
- 
-I would however recommand the use of a [Raspberry pi zero w](https://www.kubii.fr/les-cartes-raspberry-pi/1851-raspberry-pi-zero-w-kubii-3272496006997.html), which is a bit more expensive, but has wifi on board that will make the installation way easier.
- 
-:information_source: This project uses the [Pinmonori Pirate-Audio](https://github.com/pimoroni/pirate-audio) github repository. This couldn't have been done without the huge work of [Mopidy](https://mopidy.com/) either ! It is also based on other open source projects. If you find your work to be used in my project and want a shout out, feel free to contact me.
+# Raspberry pi 4 audio looper 
+original version is 
+https://github.com/PetitPrinc3/PIpod-Nano
 
-Remember that those steps worked for me, they may not work for you. If you encounter any issue, please check the last paragraph.
+original version is made with 
+- Raspberry pi zero 
+- Pirate Audio Headphone Amp
 
-#### How is the software different from the one provided by Pimonori? 
+# we have many option to listen music / sound
+but I want to build some simple audio / podcast player without concerns! 
+there are so many video looper but not many audio loopers with Raspberry pi
+so I found the projects and forked this projects, and will edit some features! 
 
 ```
- - Reducing the volume increase/decrease sensibility
- - Hold the A button (play/pause button) for 3 seconds to safely shutdown the pi
- - Holding a volume button (A/Y) will increase the volume by five every .01 second
- - Have the pi automatically play every song in a certain folder on boot
- - Tried a few combinations to have the fastest boot possible
+Main features
+##Hardware
+- Raspberry pi 4B + (tested)
+
+##Environment
+Setting up with Mopidy 
+boot on play in the folder Raspberry pi 4 /home/pi/Music
+also It has built with Mopidy. you can control the music and sound with Elegant web Environment!
+
+##now on Edit 
+there are some feature with the button, 
+Now I am on going with remove / adapt only plug and play versions
+
+```
+# Further development
+```
+- remove button and other feature for optimization
+- sync with dropbox
+- parcing some sound from somewhere (Nasa or ITunes Podcast?) 
+```
+
+
+# Getting started!
 ```
 
 ## Getting started

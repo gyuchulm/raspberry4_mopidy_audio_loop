@@ -14,19 +14,20 @@ so I found the projects and forked this projects, and will edit some features!
 
 ```
 Main features
-## Hardware
+# Hardware
 - Raspberry pi 4B + (tested)
 - External speaker (if you want to listen loud, external amps)
 
-## Environment
+# Environment
 Setting up with Mopidy 
 boot on play in the folder Raspberry pi 4 /home/pi/Music
 also It has built with Mopidy. you can control the music and sound with Elegant web Environment!
 
-## now on Edit 
-there are some feature with the button, 
-Now I am on going with remove / adapt only plug and play versions
-
+# now on Edit! 
+0. name and unecessary stuffs engaged with Pod optios
+1. Now I am on going with remove / adapt only plug and play versions
+2. if you want to sync with your dropbox -> raspberry pi you should check, 
+https://jarrodstech.net/how-to-raspberry-pi-dropbox-sync/
 ```
 # Further development
 ```

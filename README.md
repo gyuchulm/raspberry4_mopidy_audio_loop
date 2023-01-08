@@ -32,7 +32,7 @@ https://jarrodstech.net/how-to-raspberry-pi-dropbox-sync/
 # Further development
 ```
 - remove button and other feature for optimization
-- sync with dropbox
+- sync with dropbox (done / check the link in below)
 - parcing some sound from somewhere (Nasa or ITunes Podcast?) 
 ```
 

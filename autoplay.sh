@@ -6,7 +6,7 @@ mv /usr/share/PIpodScripts/database /usr/share/PIpodScripts/database.save
 cat /tmp/.db$ /usr/share/PIpodScripts/database.save > /usr/share/PIpodScripts/database
 
 while [ `mpc`=="mpd error: Connection refused" ]; do sleep 1; done
-mpc volume 1
+mpc volume 60
 
 #Loading the playlist
 

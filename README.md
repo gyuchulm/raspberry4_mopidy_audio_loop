@@ -55,7 +55,7 @@ A step by step series of examples that tell you how to get the project to work o
 First you need to clone the repository :
 
 ```
-pi@raspberrypi:~ $ git clone https://github.com/G-a-v-r-o-c-h-e/PIpod-Nano
+pi@raspberrypi:~ $ git clone https://github.com/gyuchulm/raspberry4_mopidy_audio_loop
 ```
 
 Then go to the Pipod-Nano folder and give install.sh the right permissions :

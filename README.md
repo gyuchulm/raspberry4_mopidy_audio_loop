@@ -36,10 +36,6 @@ https://jarrodstech.net/how-to-raspberry-pi-dropbox-sync/
 - parcing some sound from somewhere (Nasa or ITunes Podcast?) 
 ```
 
-
-# Getting started!
-```
-
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your pi. 
